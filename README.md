@@ -165,29 +165,9 @@ This type of dashboard can help management and commercial teams:
 
 ### Dashboard Preview
 
-Add your exported Power BI dashboard screenshot to the repository and update the filename below:
 
 ```text
-screenshots/hospitality-dashboard.png
-```
-
-Then use:
-
-![Hospitality Power BI Dashboard](screenshots/hospitality-dashboard.png)
-
-### Suggested Repository Structure
-
-```text
-Hospitality-PowerBI-Dashboard/
-│
-├── README.md
-├── Hospitality Dashboard_1.pbit
-│
-└── screenshots/
-    └── hospitality-dashboard.png
-```
-
----
+[screenshots/hospitality-dashboard.png](https://github.com/MuhammadTayyabMufti/Hospitality-Dashboard/blob/main/Hospitality_Dashboard_1.png)
 
 ## 🚀 How to Use
 
