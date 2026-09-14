@@ -166,8 +166,8 @@ This type of dashboard can help management and commercial teams:
 ### Dashboard Preview
 
 
-```text
-[screenshots/hospitality-dashboard.png](https://github.com/MuhammadTayyabMufti/Hospitality-Dashboard/blob/main/Hospitality_Dashboard_1.png)
+
+https://github.com/MuhammadTayyabMufti/Hospitality-Dashboard/blob/main/Hospitality_Dashboard_1.png
 
 ## 🚀 How to Use
 
